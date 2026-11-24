@@ -2,6 +2,8 @@
 
 مدير مصاريف البيت بالجنيه المصري: سجّل مصاريفك، حدّد ميزانيات، وتابع إنفاقك بالرسوم البيانية. A household expense manager in Egyptian Pounds: record expenses, set budgets, and track your spending with charts.
 
+**Live demo:** https://faresdief.github.io/Bayti-Wallet/
+
 ## المميزات | Features
 
 - تسجيل المصاريف حسب الفئة، مع حدود إنفاق لكل فئة. Expenses by category, with per-category spending limits.
